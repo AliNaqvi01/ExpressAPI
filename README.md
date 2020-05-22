@@ -22,3 +22,10 @@ To use the API endpoint, you can simply use your browser to navigate to http://1
 The form is located at http://localhost:3000/. Entering your email and password and submitting will give a prompt telling you it has been saved. If you would like to see the data in your MongoDB Database, please refer to https://stackoverflow.com/questions/24985684/mongodb-show-all-contents-from-all-collections. The collection is called "datas" and the database is called "myCodingProjectDB".
 
 Te API page is located at http://localhost:3000/. Clicking the "Get API Data" button will update the page with a piece of the data recived by the API.
+
+Files of importance:
+server.js
+Form.jsx
+APIPage.jsx
+app.js
+schema.js
