@@ -5,7 +5,7 @@ operable program or batch file.")
 
 Instructions:
 
-1) Download the project and open the terminal/ command prompt in the "veer-project-master" level. **This should be the same folder/ level where the server.js file is located** . For example, C:\Users\Ali\Downloads\veer-project-master. The server.js file is located here.
+1) Download the project and open the terminal/ command prompt in the "veer-project-master" level. **This should be the same folder/ level where the server.js file is located** . For example, C:\Users\Ali\Downloads\veer-project-master. The server.js file is located here. \n
 1.5) If you are on Mac you also have to install start the MongoDB server using "brew tap mongodb/brew", then "brew install mongodb-community@4.2", then "brew services start mongodb-community@4.2"
 2) Run the command "npm install". This will install all the required modules.
 3) To start the server, run the command "node server.js". This will start the server at http://127.0.0.1:8081
