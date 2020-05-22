@@ -24,8 +24,8 @@ The form is located at http://localhost:3000/. Entering your email and password 
 Te API page is located at http://localhost:3000/. Clicking the "Get API Data" button will update the page with a piece of the data recived by the API.
 
 Files of importance:
-**1)server.js
-2)**Form.jsx
-3)**APIPage.jsx
-4)**app.js
-5) **schema.js
+1)**server.js**
+2)**Form.jsx**
+3)**APIPage.jsx**
+4)**app.js**
+5) **schema.js**
