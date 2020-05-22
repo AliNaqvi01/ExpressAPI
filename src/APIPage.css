@@ -1,28 +1,7 @@
-body{
-  background: lightgray;
-}
-#child{
-  margin: 20%;
-  text-align: center;
-}
-#button1{
-
+#button2{
   cursor: pointer;
-  background: #4CAF50;
-  color: white;
-  font-weight: 400;
-  height: 50px;
-  width: 150px;
-  border: lightgray;
-  border-radius: 30px;
-}
-input{
-  height: 50px;
-}
-#link1{
-  padding-top: 30px;
   margin-top: 2%;
-  margin-left: 25vw;
+  margin-left: 42%;
   background: blueviolet;
   color: white;
   font-weight: 400;
@@ -31,12 +10,22 @@ input{
   border: lightgray;
   border-radius: 30px;
 }
-a {
-  
-  
-  color: #FFF;
-  text-decoration: none;
+h1{
+margin-left: 40%;
 }
-a:hover {
+#link{
+  padding-top: 30px;
+  padding-right: 1px;
+  margin-top: 2%;
+  margin-left: 42%;
+  background: blueviolet;
+  color: white;
+  font-weight: 400;
+  height: 50px;
+  width: 150px;
+  border: lightgray;
+  border-radius: 30px;
+}
+#link:hover {
    color: black
 }
