@@ -5,7 +5,7 @@ operable program or batch file.")
 
 Instructions:
 
-1) Download the project and open the terminal/ command prompt in the "veer-project-master" folder twice. For example, C:\Users\Ali\Downloads\veer-project-master\veer-project-master.
+1) Download the project and open the terminal/ command prompt in the "veer-project-master/veer-project-master" level. For example, C:\Users\Ali\Downloads\veer-project-master\veer-project-master.
 2) Run the command "npm install". This will install all the required modules.
 3) To start the server, run the command "node server.js". This will start the server at http://127.0.0.1:8081
 4) To start the front end, open another terminal in the "veer-project-master" folder and type "npm start", this will start the front end at http://localhost:3000/ (althought that may change by device. The terminal will let you know what port the site is on).
