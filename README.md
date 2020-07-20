@@ -1,4 +1,4 @@
-### Veer AI coding Project
+### Just a demo express server with a react front-end 
 
 To run the project make sure you have Node.js and MongoDB installed on your computer and that they are added as enviroment variables (so you can use them in the command line. If you do not add them and try to follow the instructions you will get the error "[] is not recognized as an internal or external command,
 operable program or batch file.")
